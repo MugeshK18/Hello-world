@@ -1,2 +1,2 @@
 # Hello-world
-checking
+print("hello world")
